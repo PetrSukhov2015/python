@@ -24,3 +24,5 @@ obj.display_args()  # Вывод: Позиционные аргументы: (1,
 obj.display_kwargs()  # Вывод: Именованные аргументы: {'a': 4, 'b': 5}
 obj.static_method()  # Вывод: Это статический метод
 obj.dynamic_method()  # Вывод: Это динамический метод
+
+#https://habr.com/ru/articles/210288/
